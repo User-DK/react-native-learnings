@@ -1,0 +1,7 @@
+In styling for react native the alignItems property is used to align the children of a view along the secondary axis. The secondary axis is the axis that is perpendicular to the primary axis. For example, if the flexDirection is row, then the secondary axis is the vertical axis. If the flexDirection is column, then the secondary axis is the horizontal axis. 
+in simple words alignItems is used to align the children of a view along the vertical axis.
+
+the justifyContent property is used to align the children of a view along the primary axis. The primary axis is the axis that the flexDirection property specifies. For example, if flexDirection is row, the primary axis is the horizontal axis. If flexDirection is column, the primary axis is the vertical axis.
+in simple words justifyContent is used to align the children of a view along the horizontal axis. 
+
+deeplinking: Deep linking is a way to send a user directly to a specific page or content within an app. It is a URL that links to a specific page or content within an app. When a user clicks on a deep link, it opens the app and takes the user directly to the linked content. Deep linking is commonly used in mobile apps to provide a seamless user experience and drive engagement.

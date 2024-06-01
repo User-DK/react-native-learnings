@@ -2,8 +2,10 @@
  * @format
  */
 
-import {AppRegistry} from 'react-native';
-import App from './App';
-import {name as appName} from './app.json';
+import { AppRegistry } from 'react-native';
+// import Mewbasic from './pages/Mewbasic';
+// import AllinOne from './pages/AllinOne';
+import CC from './components/CurrencyConverter/CurrencyConverter'
+import { name as appName } from './app.json';
 
-AppRegistry.registerComponent(appName, () => App);
+AppRegistry.registerComponent(appName, () => CC);
